@@ -12,5 +12,4 @@
 ## Установка
 
 ```bash
-git clone <repository-url>
-cd <project-folder>
+python main.py
